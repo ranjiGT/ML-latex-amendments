@@ -34,7 +34,7 @@ Includes solved numericals, understanding questions and some extra topics.
 - `A8.2` - Naive bayes and Maximum-Aposteriori-Hypothesis (MAP)
 - `A8.3` - Naive Bayes ( _Numerical_ )
 - `A8.4` - Spam classification `SpamAssassin`
-- `A9.1` - The `k-Nearest Neighbor Algorithm`
+- `A9.1` - The `k-Nearest Neighbor` algorithm
 - `A9.2` - Regression & Classification algorithms
 - `A9.3` - _k_-NN ( _Numerical_ )
 - `A9.4` - Active Learning for Case-based reasoning
@@ -42,7 +42,7 @@ Includes solved numericals, understanding questions and some extra topics.
 - `A10.2` - _k_ Means algorithm in action
 - `A10.3` - Hierachical Agglomerative Clustering algorithm
 - `A10.4` - Fuzzy-C-Means algorithm
-- `A11.1` - Learning Vector Quantization (LVQ) algorithm
+- `A11.1` - `Learning Vector Quantization (LVQ)` algorithm
 - `A11.2` - Reinforcement Learning and its components
 - `A11.3` - The `Value-Iteration` algorithm
 - `A11.4` - The `Value-Iteration` algorithm ( _Episodic process_ )
