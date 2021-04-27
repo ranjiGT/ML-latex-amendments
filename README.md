@@ -28,7 +28,7 @@ Includes solved numericals, understanding questions and some extra topics.
 - `A6.4` - Activation functions for Neural Networks ( _ReLU, Leaky ReLU variants_ )
 - `A7.1` - Gradient descent training rule
 - `A7.2` - Proper `loss` functions for `activation` functions
-- `A7.3` - The Backpropogation algorithm ![Video](https://www.youtube.com/watch?v=jIdXHu78XGY&list=PLPN-43XehstM4-SWLIUS5eFxPmFJ3iHan&index=9&ab_channel=RANJIRAJ)
+- `A7.3` - The Backpropogation algorithm [Video](https://www.youtube.com/watch?v=jIdXHu78XGY&list=PLPN-43XehstM4-SWLIUS5eFxPmFJ3iHan&index=9&ab_channel=RANJIRAJ)
 - `A7.4` - Effect of Learning rate as hyperparameter
 - `A8.1` - Non-sequential data classifiers, Feed-forward Neural Networks, BPTT, LSTM
 - `A8.2` - Naive bayes and Maximum-Aposteriori-Hypothesis (MAP)
