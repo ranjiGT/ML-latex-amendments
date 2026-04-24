@@ -110,6 +110,12 @@ Compiled PDFs are available in the [`ML-Wise2021_Nair/`](ML-Wise2021_Nair/) fold
 | [`A12.3`](ML-Wise2021_Nair/Assignment%2012.3.pdf) | Support and Confidence measures for association rules _(Numerical)_ |
 | [`A12.4`](ML-Wise2021_Nair/Assignment%2012.4.pdf) | Apriori vs. ECLAT |
 
+## Related
+
+For hands-on practical implementations of the topics covered here, see the companion repository:
+
+> **[ranjiGT/ai-machine-learning-codes](https://github.com/ranjiGT/ai-machine-learning-codes)** — practical ML code exercises and implementations.
+
 ---
 
 ## Prerequisites
