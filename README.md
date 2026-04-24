@@ -1,4 +1,10 @@
-# Machine Learning Assignments ![](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)
+# Machine Learning Assignments
+
+![Made with LaTeX](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)
+![GitHub stars](https://img.shields.io/github/stars/ranjiGT/ML-latex-amendments?style=flat&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/ranjiGT/ML-latex-amendments?style=flat&color=blue)
+![Last commit](https://img.shields.io/github/last-commit/ranjiGT/ML-latex-amendments)
+![License](https://img.shields.io/github/license/ranjiGT/ML-latex-amendments)
 
 A collection of coursework assignments from a Master's-level Machine Learning course, typeset in LaTeX. Each assignment covers a specific topic and includes solved numericals, conceptual questions, and supplementary discussion.
 
