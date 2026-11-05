@@ -17,10 +17,10 @@ Compiled PDFs are available in the [`ML-Wise2021_Nair/`](ML-Wise2021_Nair/) fold
 ### Assignment 1 — Foundations
 | # | Topic |
 |---|-------|
-| [`A1.1`](ML-Wise2021_Nair/Assignment%201.1.pdf) | Machine Learning and its applications |
-| [`A1.2`](ML-Wise2021_Nair/Assignment%201.2.pdf) | Least Mean Square (LMS) algorithm |
-| [`A1.3`](ML-Wise2021_Nair/Assignment%201.3.pdf) | Confusion matrix and evaluation metrics |
-| [`A1.4`](ML-Wise2021_Nair/Assignment%201.4.pdf) | Learning system for a _Tic-Tac-Toe_ player |
+| [`A1.1`](ML-Wise2021_Nair/01-foundations/Assignment%201.1.pdf) | Machine Learning and its applications |
+| [`A1.2`](ML-Wise2021_Nair/01-foundations/Assignment%201.2.pdf) | Least Mean Square (LMS) algorithm |
+| [`A1.3`](ML-Wise2021_Nair/01-foundations/Assignment%201.3.pdf) | Confusion matrix and evaluation metrics |
+| [`A1.4`](ML-Wise2021_Nair/01-foundations/Assignment%201.4.pdf) | Learning system for a _Tic-Tac-Toe_ player |
 
 ### Assignment 2 — Loss Functions & Statistics
 | # | Topic |
