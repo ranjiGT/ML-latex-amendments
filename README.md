@@ -25,10 +25,10 @@ Compiled PDFs are available in the [`ML-Wise2021_Nair/`](ML-Wise2021_Nair/) fold
 ### Assignment 2 — Loss Functions & Statistics
 | # | Topic |
 |---|-------|
-| [`A2.1`](ML-Wise2021_Nair/Assignment%202.1.pdf) | Matching algorithms and loss functions to classification counterparts |
-| [`A2.2`](ML-Wise2021_Nair/Assignment%202.2.pdf) | The `Bias-Variance` tradeoff |
-| [`A2.3`](ML-Wise2021_Nair/Assignment%202.3.pdf) | Categorical and numerical features in a dataset |
-| [`A2.4`](ML-Wise2021_Nair/Assignment%202.4.pdf) | Maximum Likelihood Estimation (MLE) for the _Univariate Gaussian Distribution_ |
+| [`A2.1`](ML-Wise2021_Nair/02-loss-functions-statistics/Assignment%202.1.pdf) | Matching algorithms and loss functions to classification counterparts |
+| [`A2.2`](ML-Wise2021_Nair/02-loss-functions-statistics/Assignment%202.2.pdf) | The `Bias-Variance` tradeoff |
+| [`A2.3`](ML-Wise2021_Nair/02-loss-functions-statistics/Assignment%202.3.pdf) | Categorical and numerical features in a dataset |
+| [`A2.4`](ML-Wise2021_Nair/02-loss-functions-statistics/Assignment%202.4.pdf) | Maximum Likelihood Estimation (MLE) for the _Univariate Gaussian Distribution_ |
 
 ### Assignment 3 — Concept Learning
 | # | Topic |
