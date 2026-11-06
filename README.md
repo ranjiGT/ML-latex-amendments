@@ -60,7 +60,7 @@ Compiled PDFs are available in the [`ML-Wise2021_Nair/`](ML-Wise2021_Nair/) fold
 | [`A6.1`](ML-Wise2021_Nair/06-perceptrons-neural-nets/Assignment%206.1.pdf) | Perceptron for classification |
 | [`A6.2`](ML-Wise2021_Nair/06-perceptrons-neural-nets/Assignment%206.2.pdf) | The Perceptron training rule _(Delta rule)_ |
 | [`A6.3`](ML-Wise2021_Nair/06-perceptrons-neural-nets/Assignment%206.3.pdf) | Neural Networks and their modalities |
-| [`A6.4`](ML-Wise2021_Nair/Assignment%206.4.pdf) | Activation functions for Neural Networks _(ReLU, Leaky ReLU variants)_ |
+| [`A6.4`](ML-Wise2021_Nair/06-perceptrons-neural-nets/Assignment%206.4.pdf) | Activation functions for Neural Networks _(ReLU, Leaky ReLU variants)_ |
 
 ### Assignment 7 — Training & Backpropagation
 | # | Topic |
