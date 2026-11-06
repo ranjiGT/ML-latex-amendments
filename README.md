@@ -49,10 +49,10 @@ Compiled PDFs are available in the [`ML-Wise2021_Nair/`](ML-Wise2021_Nair/) fold
 ### Assignment 5 — Overfitting & Pruning
 | # | Topic |
 |---|-------|
-| [`A5.1`](ML-Wise2021_Nair/Assignment%205.1.pdf) | Overfitting in Decision Trees with relation to `Bias` & `Variance` |
-| [`A5.2`](ML-Wise2021_Nair/Assignment%205.2.pdf) | Tree pruning for Decision Trees _(Reduced Error Pruning)_ |
-| [`A5.3`](ML-Wise2021_Nair/Assignment%205.3.pdf) | Gain ratio as a split measure |
-| [`A5.4`](ML-Wise2021_Nair/Assignment%205.4.pdf) | Regression Trees |
+| [`A5.1`](ML-Wise2021_Nair/05-overfitting-and-pruning/Assignment%205.1.pdf) | Overfitting in Decision Trees with relation to `Bias` & `Variance` |
+| [`A5.2`](ML-Wise2021_Nair/05-overfitting-and-pruning/Assignment%205.2.pdf) | Tree pruning for Decision Trees _(Reduced Error Pruning)_ |
+| [`A5.3`](ML-Wise2021_Nair/05-overfitting-and-pruning/Assignment%205.3.pdf) | Gain ratio as a split measure |
+| [`A5.4`](ML-Wise2021_Nair/05-overfitting-and-pruning/Assignment%205.4.pdf) | Regression Trees |
 
 ### Assignment 6 — Perceptrons & Neural Networks
 | # | Topic |
