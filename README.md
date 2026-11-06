@@ -33,10 +33,10 @@ Compiled PDFs are available in the [`ML-Wise2021_Nair/`](ML-Wise2021_Nair/) fold
 ### Assignment 3 — Concept Learning
 | # | Topic |
 |---|-------|
-| [`A3.1`](ML-Wise2021_Nair/Assignment%203.1.pdf) | Concept learning and related disciplines |
-| [`A3.2`](ML-Wise2021_Nair/Assignment%203.2.pdf) | Use case of concept learning — _Addison's disease_ |
-| [`A3.3`](ML-Wise2021_Nair/Assignment%203.3.pdf) | `Find-S` algorithm and `Candidate-Elimination` algorithm |
-| [`A3.4`](ML-Wise2021_Nair/Assignment%203.4.pdf) | Cross-validation as a classifier evaluation technique |
+| [`A3.1`](ML-Wise2021_Nair/03-concept-learning/Assignment%203.1.pdf) | Concept learning and related disciplines |
+| [`A3.2`](ML-Wise2021_Nair/03-concept-learning/Assignment%203.2.pdf) | Use case of concept learning — _Addison's disease_ |
+| [`A3.3`](ML-Wise2021_Nair/03-concept-learning/Assignment%203.3.pdf) | `Find-S` algorithm and `Candidate-Elimination` algorithm |
+| [`A3.4`](ML-Wise2021_Nair/03-concept-learning/Assignment%203.4.pdf) | Cross-validation as a classifier evaluation technique |
 
 ### Assignment 4 — Decision Trees
 | # | Topic |
