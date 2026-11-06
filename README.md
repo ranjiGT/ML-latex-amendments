@@ -41,10 +41,10 @@ Compiled PDFs are available in the [`ML-Wise2021_Nair/`](ML-Wise2021_Nair/) fold
 ### Assignment 4 — Decision Trees
 | # | Topic |
 |---|-------|
-| [`A4.1`](ML-Wise2021_Nair/Assignment%204.1.pdf) | Concept learning for `Decision Trees` |
-| [`A4.2`](ML-Wise2021_Nair/Assignment%204.2.pdf) | Decision Tree fundamentals for Machine Learning |
-| [`A4.3`](ML-Wise2021_Nair/Assignment%204.3.pdf) | Feature selection and challenges for Decision Trees _(use case)_ |
-| [`A4.4`](ML-Wise2021_Nair/Assignment%204.4.pdf) | Iterative Dichotomiser-3 (`ID3`) algorithm |
+| [`A4.1`](ML-Wise2021_Nair/04-decision-trees/Assignment%204.1.pdf) | Concept learning for `Decision Trees` |
+| [`A4.2`](ML-Wise2021_Nair/04-decision-trees/Assignment%204.2.pdf) | Decision Tree fundamentals for Machine Learning |
+| [`A4.3`](ML-Wise2021_Nair/04-decision-trees/Assignment%204.3.pdf) | Feature selection and challenges for Decision Trees _(use case)_ |
+| [`A4.4`](ML-Wise2021_Nair/04-decision-trees/Assignment%204.4.pdf) | Iterative Dichotomiser-3 (`ID3`) algorithm |
 
 ### Assignment 5 — Overfitting & Pruning
 | # | Topic |
