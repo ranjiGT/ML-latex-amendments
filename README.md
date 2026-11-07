@@ -67,7 +67,7 @@ Compiled PDFs are available in the [`ML-Wise2021_Nair/`](ML-Wise2021_Nair/) fold
 |---|-------|
 | [`A7.1`](ML-Wise2021_Nair/07-backpropogation/Assignment%207.1.pdf) | Gradient descent training rule |
 | [`A7.2`](ML-Wise2021_Nair/07-backpropogation/Assignment%207.2.pdf) | Matching `loss` functions to `activation` functions |
-| [`A7.3`](ML-Wise2021_Nair/07-backpropogationAssignment%207.3.pdf) | The Backpropagation algorithm · [Reference video](https://www.youtube.com/watch?v=jIdXHu78XGY&list=PLPN-43XehstM4-SWLIUS5eFxPmFJ3iHan&index=9&ab_channel=RANJIRAJ) |
+| [`A7.3`](ML-Wise2021_Nair/07-backpropogation/Assignment%207.3.pdf) | The Backpropagation algorithm · [Reference video](https://www.youtube.com/watch?v=jIdXHu78XGY&list=PLPN-43XehstM4-SWLIUS5eFxPmFJ3iHan&index=9&ab_channel=RANJIRAJ) |
 | [`A7.4`](ML-Wise2021_Nair/07-backpropogation/Assignment%207.4.pdf) | Effect of learning rate as a hyperparameter |
 
 ### Assignment 8 — Sequential Models & Naive Bayes
