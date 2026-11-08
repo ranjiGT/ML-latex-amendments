@@ -74,7 +74,7 @@ Compiled PDFs are available in the [`ML-Wise2021_Nair/`](ML-Wise2021_Nair/) fold
 | # | Topic |
 |---|-------|
 | [`A8.1`](ML-Wise2021_Nair/08-naive-bayes/Assignment%208.1.pdf) | Non-sequential data classifiers, Feed-forward Neural Networks, BPTT, LSTM |
-| [`A8.2`](ML-Wise2021_Nair/Assignment%208.2.pdf) | Naive Bayes and Maximum A-Posteriori Hypothesis (MAP) |
+| [`A8.2`](ML-Wise2021_Nair/08-naive-bayes/Assignment%208.2.pdf) | Naive Bayes and Maximum A-Posteriori Hypothesis (MAP) |
 | [`A8.3`](ML-Wise2021_Nair/Assignment%208.3.pdf) | Naive Bayes _(Numerical)_ |
 | [`A8.4`](ML-Wise2021_Nair/Assignment%208.4.pdf) | Spam classification with `SpamAssassin` |
 
