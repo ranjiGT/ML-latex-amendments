@@ -100,7 +100,7 @@ Compiled PDFs are available in the [`ML-Wise2021_Nair/`](ML-Wise2021_Nair/) fold
 | [`A11.1`](ML-Wise2021_Nair/11-reinforcement-learning/Assignment%2011.1.pdf) | `Learning Vector Quantization (LVQ)` algorithm |
 | [`A11.2`](ML-Wise2021_Nair/11-reinforcement-learningAssignment%2011.2.pdf) | Reinforcement Learning and its components |
 | [`A11.3`](ML-Wise2021_Nair/11-reinforcement-learning/Assignment%2011.3.pdf) | The `Value-Iteration` algorithm |
-| [`A11.4`](ML-Wise2021_Nair/Assignment%2011.4.pdf) | The `Value-Iteration` algorithm _(Episodic process)_ |
+| [`A11.4`](ML-Wise2021_Nair/11-reinforcement-learning/Assignment%2011.4.pdf) | The `Value-Iteration` algorithm _(Episodic process)_ |
 
 ### Assignment 12 — Association Rules
 | # | Topic |
