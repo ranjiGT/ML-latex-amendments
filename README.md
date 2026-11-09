@@ -106,7 +106,7 @@ Compiled PDFs are available in the [`ML-Wise2021_Nair/`](ML-Wise2021_Nair/) fold
 | # | Topic |
 |---|-------|
 | [`A12.1`](ML-Wise2021_Nair/12-association-rules/Assignment%2012.1.pdf) | Association rules |
-| [`A12.2`](ML-Wise2021_Nair/Assignment%2012.2.pdf) | Frequent Itemset Mining _(Exercise)_ |
+| [`A12.2`](ML-Wise2021_Nair/12-association-rules/Assignment%2012.2.pdf) | Frequent Itemset Mining _(Exercise)_ |
 | [`A12.3`](ML-Wise2021_Nair/Assignment%2012.3.pdf) | Support and Confidence measures for association rules _(Numerical)_ |
 | [`A12.4`](ML-Wise2021_Nair/Assignment%2012.4.pdf) | Apriori vs. ECLAT |
 
