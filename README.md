@@ -82,7 +82,7 @@ Compiled PDFs are available in the [`ML-Wise2021_Nair/`](ML-Wise2021_Nair/) fold
 | # | Topic |
 |---|-------|
 | [`A9.1`](ML-Wise2021_Nair/09-instance-based-learning/Assignment%209.1.pdf) | The `k-Nearest Neighbor` algorithm |
-| [`A9.2`](ML-Wise2021_Nair/Assignment%209.2.pdf) | Regression & Classification algorithms |
+| [`A9.2`](ML-Wise2021_Nair/09-instance-based-learning/Assignment%209.2.pdf) | Regression & Classification algorithms |
 | [`A9.3`](ML-Wise2021_Nair/Assignment%209.3.pdf) | _k_-NN _(Numerical)_ |
 | [`A9.4`](ML-Wise2021_Nair/Assignment%209.4.pdf) | Active Learning for Case-Based Reasoning |
 
