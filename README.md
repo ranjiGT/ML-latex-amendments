@@ -91,7 +91,7 @@ Compiled PDFs are available in the [`ML-Wise2021_Nair/`](ML-Wise2021_Nair/) fold
 |---|-------|
 | [`A10.1`](ML-Wise2021_Nair/10-clustering/Assignment%2010.1.pdf) | Supervised vs. Unsupervised learning |
 | [`A10.2`](ML-Wise2021_Nair/10-clustering/Assignment%2010.2.pdf) | _k_-Means algorithm in action |
-| [`A10.3`](ML-Wise2021_Nair/Assignment%2010.3.pdf) | Hierarchical Agglomerative Clustering |
+| [`A10.3`](ML-Wise2021_Nair/10-clustering/Assignment%2010.3.pdf) | Hierarchical Agglomerative Clustering |
 | [`A10.4`](ML-Wise2021_Nair/Assignment%2010.4.pdf) | Fuzzy C-Means algorithm |
 
 ### Assignment 11 — LVQ & Reinforcement Learning
